@@ -37,4 +37,4 @@ Tham khảo tại https://phattrienphanmem123az.com/
 -Thay đổi thời gian ngắn hơn so với nguồn
 
 -Thêm âm thanh cho đạn bắn và khi bắn trúng quái vật.
-# Video đề mô:
+# Video đề mô:https://drive.google.com/file/d/16zXZRhxC3c0CA-tksVIK6nAzNAJ2SR1L/view?usp=sharing
