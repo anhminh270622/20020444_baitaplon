@@ -1,6 +1,6 @@
 # Tên game : game bắn súng
 
-Link download : https:
+Link download :https://github.com/anhminh270622/20020444_baitaplon.git
 
 # Hướng dẫn cài đặt:
 
