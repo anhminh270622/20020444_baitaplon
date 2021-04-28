@@ -1,0 +1,28 @@
+﻿  Main.cpp
+D:\GameSDL\GameSDL\Commonfunc.h(47,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\GameSDL\GameSDL\Commonfunc.h(58,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\GameSDL\GameSDL\Geometric.h(15,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+D:\GameSDL\GameSDL\Geometric.h(24,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+D:\GameSDL\GameSDL\BossOject.h(12,1): warning C4005: 'PLAYER_SPEED': macro redefinition
+D:\GameSDL\GameSDL\MainObject.h(6): message : see previous definition of 'PLAYER_SPEED'
+D:\GameSDL\GameSDL\BossOject.h(22,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GameSDL\GameSDL\BossOject.h(23,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(111,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(114,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(115,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(131,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(169,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(178,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(250,21): warning C4018: '<': signed/unsigned mismatch
+D:\GameSDL\GameSDL\Main.cpp(264,25): warning C4018: '<': signed/unsigned mismatch
+D:\GameSDL\GameSDL\Main.cpp(286,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(287,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(322,21): warning C4018: '<': signed/unsigned mismatch
+D:\GameSDL\GameSDL\Main.cpp(327,23): warning C4018: '<': signed/unsigned mismatch
+D:\GameSDL\GameSDL\Main.cpp(345,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(346,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(393,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(401,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(419,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\GameSDL\GameSDL\Main.cpp(437,20): warning C4018: '<': signed/unsigned mismatch
+  GameSDL.vcxproj -> D:\GameSDL\Debug\GameSDL.exe
