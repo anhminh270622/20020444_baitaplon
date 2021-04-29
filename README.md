@@ -18,7 +18,7 @@ B2: Vào file vừa giải nén chọn->Debug->GameSDL.sln
 
 • Cơ chế game:
 
--Nhân vật chính có 3 lần để sống lại chơi khi hết 3 lần đó thì sẽ over game
+-Nhân vật chính có 3 lần để sống lại chơi khi hết 3 lần đó thì sẽ kết thúc game
 
 -Thời gian của game là 600s
 
@@ -26,7 +26,7 @@ B2: Vào file vừa giải nén chọn->Debug->GameSDL.sln
 
 -Khi chơi nhân vật chính cần tránh các đạn bắn từ con quái và tránh va chạm với các con quái đó để tránh bị mất 1 lần chơi
 
--Khi chơi đến đích gặp boss thì sẽ dành chiến thắng
+-Khi chơi đến đích gặp boss hoặc nếu được 30xu và 40 quái thì sẽ dành chiến thắng
 
 # Nguồn :
 
